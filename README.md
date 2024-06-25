@@ -3,11 +3,12 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Watcharapong+Namsaeng!;" />
+    A Student from Kalasinpittayasan School Thailand<br>
+    [Excelling Academic Class Senice Computer Class of 1]</h3>
 </h1>
 
 <h3 align="center">A Student from Kalasinpittayasan School Thailand<br>
 [Excelling Academic Class Senice Computer Class of 1]</h3>
-<a href="https://kalasinpit.ac.th/" target="blank"><img align="right" alt="Coding" width="150" src="https://img5.pic.in.th/file/secure-sv1/KPS-LOGO-300x169.gif">
     
 <br/>
 
