@@ -1,11 +1,14 @@
+[![MasterHead](https://img5.pic.in.th/file/secure-sv1/KW-Banner.png)](https://KongWatcharapong.com)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=สวัสดีครับ!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Watcharapong+Namsaeng!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
+<h3 align="center">A Student from Kalasinpittayasan School Thailand<br>
+[Excelling Academic Class Senice Computer Class of 1]</h3>
+<a href="https://kalasinpit.ac.th/" target="blank"><img align="right" alt="Coding" width="150" src="https://img5.pic.in.th/file/secure-sv1/KPS-LOGO-300x169.gif">
+    
 <br/>
 
 <div align="center">
